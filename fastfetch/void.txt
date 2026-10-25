@@ -1,0 +1,14 @@
+# to access this just type nano (nvim or whatever you use, it should look like this)
+# " nano ~/.config/images/void.txt "  (and this is for the fastefetch, so just copy
+# the following ascii!)
+
+      _______
+      \_____ `-,
+   /\   ___ `-, \
+  | |  /   \  | |
+  | |  \___/  | |
+   \ `-_____   \/
+    `-______\
+
+
+  # (if you don't have the file create it with mkdir)
