@@ -10,5 +10,3 @@
    \ `-_____   \/
     `-______\
 
-
-  # (if you don't have the file create it with mkdir)
